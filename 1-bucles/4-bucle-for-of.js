@@ -32,4 +32,12 @@ let gente = [{
         nombre: 'Jenny',
         edad: 10
     },
-]
+];
+
+var miArrayEdad = [];
+for(var persona of gente){
+    if (persona.edad >25){
+        miArrayEdad.push (persona);
+    }
+}
+console.log(miArrayEdad);

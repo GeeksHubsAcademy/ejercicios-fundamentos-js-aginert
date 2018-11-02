@@ -32,4 +32,11 @@ let gente = [{
         nombre: 'Jenny',
         edad: 10
     },
-]
+];
+var miArrayJ = [];
+for (var persona of gente){
+    if (persona.nombre[0] === "J"){
+        miArrayJ.push(persona);
+    }
+}
+console.log(miArrayJ);

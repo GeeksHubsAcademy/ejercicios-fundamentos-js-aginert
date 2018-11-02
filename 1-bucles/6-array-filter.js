@@ -31,5 +31,15 @@ let gente = [{
         nombre: 'Jenny',
         edad: 10
     },
-]
+];
+
+// var arrayCuatro;
+// arrayCuatro = gente.filter(function(persona){
+//     return persona.nombre.lenght == 4
+// });
+// console.log(arrayCuatro);
+
+var arrayCuatro = [];
+arrayCuatro = gente.filter ( personas => personas.nombre.length === 4);
+console.log(arrayCuatro);
 

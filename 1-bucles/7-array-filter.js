@@ -33,5 +33,16 @@ let gente = [{
         nombre: 'Jenny',
         edad: 10
     },
-]
+];
+
+ //var arrayDosCondi
+
+arrayDosCondi = gente.filter(persona => persona.nombre [0] == "J" && persona.edad < 40)
+console.log(arrayDosCondi);
+
+//var dosCondiciones;
+ //var dosCondiciones = gente.filter(function(persona){
+ //   return persona.nombre[0]=="J"; persona.edad <40
+//});
+ //console.log(dosCondiciones);
 
