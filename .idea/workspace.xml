@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f68a266-ae3d-434b-a566-d70601229e1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ejercicios-fundamentos-js-aginert.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-bucles/1-bucle-for.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-bucles/1-bucle-for.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-bucles/2-bucle-for.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-bucles/2-bucle-for.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-bucles/3-bucle-for.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-bucles/3-bucle-for.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-bucles/4-bucle-for-of.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-bucles/4-bucle-for-of.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-bucles/5-bucle-for-of.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-bucles/5-bucle-for-of.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-bucles/6-array-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-bucles/6-array-filter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-bucles/7-array-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-bucles/7-array-filter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-bucles/8-fizzbuzz.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-bucles/8-fizzbuzz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-bucles/9-array-bidimensional.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-bucles/9-array-bidimensional.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-objects/1-objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/2-objects/1-objects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-objects/3-arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/2-objects/3-arrays.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,33 +21,47 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="9" />
+          <entry key="js" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="9" />
+          <entry key="JavaScript" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="44" />
+          <entry key="js" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="44" />
+          <entry key="JavaScript" value="55" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1-bucles/9-array-bidimensional.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2-objects/2-objects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2-objects/3-arrays.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,8 +81,10 @@
         <option value="$PROJECT_DIR$/1-bucles/5-bucle-for-of.js" />
         <option value="$PROJECT_DIR$/1-bucles/6-array-filter.js" />
         <option value="$PROJECT_DIR$/1-bucles/7-array-filter.js" />
-        <option value="$PROJECT_DIR$/1-bucles/8-fizzbuzz.js" />
         <option value="$PROJECT_DIR$/1-bucles/9-array-bidimensional.js" />
+        <option value="$PROJECT_DIR$/1-bucles/8-fizzbuzz.js" />
+        <option value="$PROJECT_DIR$/2-objects/1-objects.js" />
+        <option value="$PROJECT_DIR$/2-objects/3-arrays.js" />
       </list>
     </option>
   </component>
@@ -118,6 +122,11 @@
               <item name="ejercicios-fundamentos-js-aginert" type="462c0819:PsiDirectoryNode" />
               <item name="1-bucles" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ejercicios-fundamentos-js-aginert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ejercicios-fundamentos-js-aginert" type="462c0819:PsiDirectoryNode" />
+              <item name="2-objects" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -153,16 +162,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541185457635</updated>
-      <workItem from="1541185460371" duration="1014000" />
+      <workItem from="1541185460371" duration="1279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1014000" />
+    <option name="totallyTimeSpent" value="1279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="705" y="-1057" width="960" height="1057" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.18409586" />
@@ -262,20 +270,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1-bucles/9-array-bidimensional.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1-bucles/8-fizzbuzz.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="345">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1-bucles/9-array-bidimensional.js">
+    <entry file="file://$PROJECT_DIR$/2-objects/1-objects.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="210">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-objects/2-objects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-objects/3-arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
